@@ -1,6 +1,4 @@
-
- /* LFZ Grid 1.0 */
-
+/* LFZ Grid 1.0 */
 
 .container {
     width: 100%;
@@ -29,8 +27,8 @@
     position: relative;
     width: 100%;
     min-height: 1px;
-    margin-right: .5%;
-    margin-left: .5%;
+    margin-right: 0.5%;
+    margin-left: 0.5%;
 }
 
 .col-1 {
@@ -98,10 +96,10 @@
     margin-left: 75%;
 }
 .offset-10 {
-    margin-left: 83.33%
+    margin-left: 83.33%;
 }
 .offset-11 {
-    margin-left: 91.66%
+    margin-left: 91.66%;
 }
 .offset-12 {
     margin-left: 100%;
@@ -142,16 +140,3 @@ for the content of the website to adapt to the screen it is displayed on. */
         max-width: 420px;
     }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Found 4 out of 4 items
